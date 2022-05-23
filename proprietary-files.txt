@@ -1,0 +1,35 @@
+# DolbyAtmos - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
+
+# DAX
+-system/app/MotoDolbyV3/MotoDolbyV3.apk
+-system_ext/priv-app/daxService/daxService.apk
+
+# Permissions
+system/etc/permissions/com.motorola.dolby.dolbyui.features.xml
+system/etc/permissions/com.motorola.motosignature.xml
+system/etc/permissions/moto-checkin.xml
+system_ext/etc/permissions/com.dolby.daxservice.xml
+
+# Sysconfig
+system/etc/sysconfig/hiddenapi-whitelist-com.motorola.dolby.dolbyui.xml
+
+# Framework
+system/framework/moto-checkin.jar
+system/framework/com.motorola.motosignature.jar
+
+# Vendor
+vendor/bin/hw/vendor.dolby.hardware.dms@1.0-service
+vendor/etc/dolby/dax-default.xml
+vendor/etc/init/vendor.dolby.hardware.dms@1.0-service.rc
+vendor/etc/media_codecs_dolby_audio.xml
+vendor/lib/soundfx/libswdap.so
+vendor/lib/libdapparamstorage.so
+vendor/lib/libstagefright_soft_ddpdec.so
+vendor/lib/libstagefrightdolby.so
+vendor/lib/vendor.dolby.hardware.dms@1.0.so
+vendor/lib64/soundfx/libswdap.so
+vendor/lib64/libdapparamstorage.so
+vendor/lib64/libdlbdsservice.so
+vendor/lib64/libstagefrightdolby.so
+vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so
+vendor/lib64/vendor.dolby.hardware.dms@1.0.so
