@@ -31,4 +31,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     MotoDolbyV3 \
-    daxService
+    daxService \
+    vendor.dolby.hardware.dms

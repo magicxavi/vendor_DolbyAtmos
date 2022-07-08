@@ -27,3 +27,12 @@ android_app_import {
 	system_ext_specific: true,
 }
 
+prebuilt_etc_xml {
+	name: "vendor.dolby.hardware.dms",
+	owner: "DolbyAtmos",
+	src: "proprietary/vendor/etc/vintf/manifest/vendor.dolby.hardware.dms.xml",
+	filename_from_src: true,
+	sub_dir: "vintf/manifest",
+	soc_specific: true,
+}
+

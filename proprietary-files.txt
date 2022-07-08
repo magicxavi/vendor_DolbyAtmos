@@ -4,6 +4,14 @@
 -system/app/MotoDolbyV3/MotoDolbyV3.apk
 -system_ext/priv-app/daxService/daxService.apk
 
+# DMS - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
+vendor/bin/hw/vendor.dolby.hardware.dms@1.0-service|a758922e05e11a4f5909cc968055a2579d5f91bf
+vendor/etc/init/vendor.dolby.hardware.dms@1.0-service.rc|e91adb7565e4fa126880917ed4d8f9ba4f9391d9
+vendor/lib/vendor.dolby.hardware.dms@1.0.so|df78a0e8cbeff33a3814c6c1470bf4aceb615342
+vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so|ea59f9c7c71134b0eecba03320247c30d32ef75c
+vendor/lib64/vendor.dolby.hardware.dms@1.0.so|dc093509f936ed5e32ee73f2feb5f08e9b3a0510
+-vendor/etc/vintf/manifest/vendor.dolby.hardware.dms.xml|195b23304883383d34aa05a7628d3fc7a574b145
+
 # Permissions
 system/etc/permissions/com.motorola.dolby.dolbyui.features.xml
 system/etc/permissions/com.motorola.motosignature.xml
@@ -18,18 +26,15 @@ system/framework/moto-checkin.jar
 system/framework/com.motorola.motosignature.jar
 
 # Vendor
-vendor/bin/hw/vendor.dolby.hardware.dms@1.0-service
 vendor/etc/dolby/dax-default.xml
-vendor/etc/init/vendor.dolby.hardware.dms@1.0-service.rc
 vendor/etc/media_codecs_dolby_audio.xml
 vendor/lib/soundfx/libswdap.so
 vendor/lib/libdapparamstorage.so
 vendor/lib/libstagefright_soft_ddpdec.so
 vendor/lib/libstagefrightdolby.so
-vendor/lib/vendor.dolby.hardware.dms@1.0.so
 vendor/lib64/soundfx/libswdap.so
 vendor/lib64/libdapparamstorage.so
 vendor/lib64/libdlbdsservice.so
 vendor/lib64/libstagefrightdolby.so
-vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so
-vendor/lib64/vendor.dolby.hardware.dms@1.0.so
+
+
