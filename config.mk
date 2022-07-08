@@ -1,5 +1,9 @@
 $(call inherit-product, vendor/DolbyAtmos/common/common-vendor.mk)
 
+# Sepolicy
+BOARD_VENDOR_SEPOLICY_DIRS += \
+    vendor/DolbyAtmos/sepolicy/vendor
+    
 # Dolby    
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.feature.dolby_enable=true \
