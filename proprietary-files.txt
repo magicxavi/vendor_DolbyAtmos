@@ -18,9 +18,9 @@ vendor/lib64/vendor.dolby.hardware.dms@1.0.so|dc093509f936ed5e32ee73f2feb5f08e9b
 # Media - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 vendor/etc/media_codecs_dolby_audio.xml|900fc6cf1b41ecf8a2bd15b23cf68ac58643c044
 
-# Permissions
-system/etc/permissions/com.motorola.dolby.dolbyui.features.xml
-system_ext/etc/permissions/com.dolby.daxservice.xml
+# Permissions - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
+system/etc/permissions/com.motorola.dolby.dolbyui.features.xml|f960f6fda0e9ff8575388765226c213f11ba8358|7eafc481b604505f057931a6f83c507e357886b3
+system_ext/etc/permissions/com.dolby.daxservice.xml|86d4a12d3049d9de41db123026404f0c0bc40581
 
 # Sysconfig - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 system/etc/sysconfig/hiddenapi-whitelist-com.motorola.dolby.dolbyui.xml|ab4600814879c626a410e607107829faceec9d2c
