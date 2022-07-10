@@ -12,6 +12,9 @@ vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so|ea59f9c7c71134b0eecba03320247
 vendor/lib64/vendor.dolby.hardware.dms@1.0.so|dc093509f936ed5e32ee73f2feb5f08e9b3a0510
 -vendor/etc/vintf/manifest/vendor.dolby.hardware.dms.xml|195b23304883383d34aa05a7628d3fc7a574b145
 
+# Media - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
+vendor/etc/media_codecs_dolby_audio.xml|900fc6cf1b41ecf8a2bd15b23cf68ac58643c044
+
 # Permissions
 system/etc/permissions/com.motorola.dolby.dolbyui.features.xml
 system/etc/permissions/com.motorola.motosignature.xml
@@ -27,7 +30,6 @@ system/framework/com.motorola.motosignature.jar
 
 # Vendor
 vendor/etc/dolby/dax-default.xml
-vendor/etc/media_codecs_dolby_audio.xml
 vendor/lib/soundfx/libswdap.so
 vendor/lib/libdapparamstorage.so
 vendor/lib/libstagefright_soft_ddpdec.so
