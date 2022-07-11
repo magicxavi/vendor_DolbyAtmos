@@ -5,7 +5,7 @@
 -system_ext/priv-app/daxService/daxService.apk|d06ce7400ff6b9285a4644bd1fb4f19c5f961912
 
 # DAX Config - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
-vendor/etc/dolby/dax-default.xml|4a27265071f5ec27d61eff00c0f09b9f787b3001
+vendor/etc/dolby/dax-default.xml|c4190760d3d09188972b0be24059965261223fb7
 
 # Dolby audio - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 vendor/lib/libdapparamstorage.so|bb2907de4457371d162c1adfae026deb4951bed9

@@ -161,26 +161,26 @@
   <preset id="3" type="geq">
     <data>
       <graphic-equalizer-bands>
-        <band_geq frequency="47" gain="-48"/>
-        <band_geq frequency="141" gain="-48"/>
-        <band_geq frequency="234" gain="-48"/>
-        <band_geq frequency="328" gain="-48"/>
-        <band_geq frequency="469" gain="-48"/>
-        <band_geq frequency="656" gain="-48"/>
-        <band_geq frequency="844" gain="-48"/>
-        <band_geq frequency="1031" gain="-48"/>
-        <band_geq frequency="1313" gain="-48"/>
-        <band_geq frequency="1688" gain="-48"/>
-        <band_geq frequency="2250" gain="-48"/>
-        <band_geq frequency="3000" gain="-48"/>
-        <band_geq frequency="3750" gain="-48"/>
-        <band_geq frequency="4688" gain="-48"/>
-        <band_geq frequency="5813" gain="-48"/>
-        <band_geq frequency="7125" gain="-48"/>
-        <band_geq frequency="9000" gain="-48"/>
-        <band_geq frequency="11250" gain="-48"/>
-        <band_geq frequency="13875" gain="-48"/>
-        <band_geq frequency="19688" gain="-48"/>
+        <band_geq frequency="47" gain="0"/>
+        <band_geq frequency="141" gain="0"/>
+        <band_geq frequency="234" gain="0"/>
+        <band_geq frequency="328" gain="0"/>
+        <band_geq frequency="469" gain="0"/>
+        <band_geq frequency="656" gain="0"/>
+        <band_geq frequency="844" gain="0"/>
+        <band_geq frequency="1031" gain="0"/>
+        <band_geq frequency="1313" gain="0"/>
+        <band_geq frequency="1688" gain="0"/>
+        <band_geq frequency="2250" gain="0"/>
+        <band_geq frequency="3000" gain="0"/>
+        <band_geq frequency="3750" gain="0"/>
+        <band_geq frequency="4688" gain="0"/>
+        <band_geq frequency="5813" gain="0"/>
+        <band_geq frequency="7125" gain="0"/>
+        <band_geq frequency="9000" gain="0"/>
+        <band_geq frequency="11250" gain="0"/>
+        <band_geq frequency="13875" gain="0"/>
+        <band_geq frequency="19688" gain="0"/>
       </graphic-equalizer-bands>
     </data>
   </preset>
@@ -962,28 +962,28 @@
         <item>-144</item>
       </gains>
     </geq-preset>
-    <geq-preset name="manual" id="3" max_edit_gain="0" min_edit_gain="-96">
+    <geq-preset name="manual" id="3" max_edit_gain="576" min_edit_gain="-576">
       <gains>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
-        <item>-48</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
       </gains>
     </geq-preset>
     <geq-preset name="flat" id="4" max_edit_gain="48" min_edit_gain="-144">
