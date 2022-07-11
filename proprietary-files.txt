@@ -1,7 +1,6 @@
 # DolbyAtmos - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 
 # DAX - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
--system/app/MotoDolbyV3/MotoDolbyV3.apk|fc6e6c226e445b40edced3fa2399b3295749172a
 -system_ext/priv-app/daxService/daxService.apk|d06ce7400ff6b9285a4644bd1fb4f19c5f961912
 
 # DAX Config - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
@@ -23,6 +22,9 @@ vendor/lib/vendor.dolby.hardware.dms@1.0.so|df78a0e8cbeff33a3814c6c1470bf4aceb61
 vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so|ea59f9c7c71134b0eecba03320247c30d32ef75c
 vendor/lib64/vendor.dolby.hardware.dms@1.0.so|dc093509f936ed5e32ee73f2feb5f08e9b3a0510
 -vendor/etc/vintf/manifest/vendor.dolby.hardware.dms.xml|195b23304883383d34aa05a7628d3fc7a574b145
+
+# Moto Dolby - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
+-system/app/MotoDolbyV3/MotoDolbyV3.apk|82b802b1315cfe320940ad0aa69d05ae99ed9ba0
 
 # Media - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 vendor/etc/media_codecs_dolby_audio.xml|900fc6cf1b41ecf8a2bd15b23cf68ac58643c044
