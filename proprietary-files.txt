@@ -7,14 +7,14 @@
 # DAX Config - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 vendor/etc/dolby/dax-default.xml|c4190760d3d09188972b0be24059965261223fb7
 
-# Dolby audio - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
-vendor/lib/libdapparamstorage.so|bb2907de4457371d162c1adfae026deb4951bed9
-vendor/lib/libstagefrightdolby.so|c9c317aeddd72e414398451ba9e59b845e2a97e9
-vendor/lib/soundfx/libswdap.so|f0a9ab87868e6ede0b7020fb0aa35be72c726d76
-vendor/lib64/libdapparamstorage.so|006ae7af7b87eef48208913ae636b639a35dd557
-vendor/lib64/libdlbdsservice.so|e2390afa277556d1644684c39a0f2a78b7313055
+# Dolby audio - from sofiap_ao_eea-user-11-RPRS31.Q4U-20-36-f72e82-release-keys
+vendor/lib/libdapparamstorage.so|6fce779d3b4f21783d3d96e82f9b185107bbab38
+vendor/lib/libstagefrightdolby.so|130b9da07e3c4a4ec04142049246eba18f1c350f
+vendor/lib/soundfx/libswdap.so|0bd57dec350fb40ef3222723e59a7d5fe503ca7f
+vendor/lib64/libdapparamstorage.so|c54376a54043115f11154b47b10f6156f904ed00
+vendor/lib64/libdlbdsservice.so|77e3a0d44ce95c7e5139badb94087ea58211b022
 vendor/lib64/libstagefrightdolby.so|3015cdebaaa56100d883adb8ad886237598253bb
-vendor/lib64/soundfx/libswdap.so|9cd38e4a72e94da4d6065ddd391186844439136a
+vendor/lib64/soundfx/libswdap.so|be0056eb6359158a5f6aa5e2a8ed0fa260a82949
 
 # DMS - from sofiap_sprout-user-12-S0PR32.44-11-8-6de89-release-keys
 vendor/bin/hw/vendor.dolby.hardware.dms@1.0-service|a758922e05e11a4f5909cc968055a2579d5f91bf
